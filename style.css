@@ -1,0 +1,26 @@
+.blue {
+  background-color: blue;
+  color: white
+}
+
+.grey {
+  background-color: grey;
+  color: black;
+}
+
+.grey-text {
+  color: grey;
+}
+
+h3 {
+  margin: auto;
+  padding: 15px;
+}
+
+.card-white {
+  background: white;
+  padding: 30px;
+  box-shadow: 1px 1px 2px #e7e7e7;
+  border-radius: 4px;
+  margin: 20px 50px;
+}
