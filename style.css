@@ -12,6 +12,15 @@
   color: grey;
 }
 
+.background {
+  background-color: beige;
+  fill: 100%;
+}
+
+.container {
+  padding: 10px
+}
+
 h3 {
   margin: auto;
   padding: 15px;
